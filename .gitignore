@@ -1,0 +1,6 @@
+# dashcode noise
+*.wdguser
+
+# osx noise
+.DS_Store
+profile
