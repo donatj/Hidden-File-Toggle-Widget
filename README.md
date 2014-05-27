@@ -1,6 +1,8 @@
 Hidden File Toggle Widget
 =========================
 
+![Screen Shot](https://raw.githubusercontent.com/donatj/Hidden-File-Toggle-Widget/master/screenshot.png)
+
 Download
 --------
 
