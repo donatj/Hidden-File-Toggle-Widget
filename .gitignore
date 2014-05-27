@@ -1,7 +1,7 @@
 # dashcode noise
 *.wdguser
+*.wdgtuser
 
 # osx noise
 .DS_Store
 profile
-*.wdgtuser
